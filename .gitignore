@@ -1,0 +1,36 @@
+# Binaries
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# IDE
+.vs/
+.vscode/
+
+# Logs
+*.log
+
+# NuGet
+packages/
+*.nupkg
+
+# Publish
+publish/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Database
+*.mdf
+*.ldf
+
+# Azure publish profiles
+publish-profile.xml
