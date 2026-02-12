@@ -1,0 +1,28 @@
+<publishData>
+    <publishProfile profileName="Sample-dotnetcore-app - Web Deploy" publishMethod="MSDeploy"
+        publishUrl="sample-dotnetcore-app-d9cqfedaetbadufk.scm.centralindia-01.azurewebsites.net:443"
+        msdeploySite="Sample-dotnetcore-app" userName="$Sample-dotnetcore-app"
+        userPWD="WkYmdDFsT47eKkaaEHGfoAApmgRq4xLfGozSdKmHPWTfZatllZ3Q8Xn8cs1a"
+        destinationAppUrl="https://sample-dotnetcore-app-d9cqfedaetbadufk.centralindia-01.azurewebsites.net"
+        SQLServerDBConnectionString="" mySQLDBConnectionString="" hostingProviderForumLink=""
+        controlPanelLink="https://portal.azure.com" webSystem="WebSites">
+        <databases />
+    </publishProfile>
+    <publishProfile profileName="Sample-dotnetcore-app - FTP" publishMethod="FTP"
+        publishUrl="ftps://waws-prod-pn1-015.ftp.azurewebsites.windows.net/site/wwwroot"
+        ftpPassiveMode="True" userName="REDACTED" userPWD="REDACTED"
+        destinationAppUrl="https://sample-dotnetcore-app-d9cqfedaetbadufk.centralindia-01.azurewebsites.net"
+        SQLServerDBConnectionString="REDACTED" mySQLDBConnectionString=""
+        hostingProviderForumLink="" controlPanelLink="https://portal.azure.com" webSystem="WebSites">
+        <databases />
+    </publishProfile>
+    <publishProfile profileName="Sample-dotnetcore-app - Zip Deploy" publishMethod="ZipDeploy"
+        publishUrl="sample-dotnetcore-app-d9cqfedaetbadufk.scm.centralindia-01.azurewebsites.net:443"
+        userName="$Sample-dotnetcore-app"
+        userPWD="WkYmdDFsT47eKkaaEHGfoAApmgRq4xLfGozSdKmHPWTfZatllZ3Q8Xn8cs1a"
+        destinationAppUrl="https://sample-dotnetcore-app-d9cqfedaetbadufk.centralindia-01.azurewebsites.net"
+        SQLServerDBConnectionString="" mySQLDBConnectionString="" hostingProviderForumLink=""
+        controlPanelLink="https://portal.azure.com" webSystem="WebSites">
+        <databases />
+    </publishProfile>
+</publishData>
